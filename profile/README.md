@@ -8,6 +8,7 @@ open source packages extracted from our products. zero dependencies, work everyw
 - [@systemoperator/domains](https://github.com/systemoperators/domains) - custom domain verification for apps on Cloudflare
 - [@systemoperator/runs](https://github.com/systemoperators/runs) - execution tracking for workflows, syncs, and background jobs
 - [@systemoperator/depot](https://github.com/systemoperators/depot) - content-addressable storage, item tracking, dependency management, and writeback engine
+- [@systemoperator/gateway](https://github.com/systemoperators/gateway) - API gateway utilities: retry, rate limiting, pagination, request logging
 
 ### links
 
