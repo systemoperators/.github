@@ -7,6 +7,7 @@ open source packages extracted from our products. zero dependencies, work everyw
 - [@systemoperator/slug](https://github.com/systemoperators/slug) - URL-safe slug generator with Cyrillic, emoji, and filename support
 - [@systemoperator/domains](https://github.com/systemoperators/domains) - custom domain verification for apps on Cloudflare
 - [@systemoperator/runs](https://github.com/systemoperators/runs) - execution tracking for workflows, syncs, and background jobs
+- [@systemoperator/depot](https://github.com/systemoperators/depot) - content-addressable storage, item tracking, dependency management, and writeback engine
 
 ### links
 
